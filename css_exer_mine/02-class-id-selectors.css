@@ -1,0 +1,16 @@
+.odd-p{
+    background-color: rgb(251, 194, 202);
+    font-family: 'Verdana','DejaVu Sans','sans-serif';
+}
+#iam2{
+    color:blue;
+    font-size:36px;
+}
+.odd-p.iam3{
+    font-size:24px;
+}
+#iam4{
+    background-color:rgb(138, 250, 138);
+    font-size:24px;
+    font-weight:900;
+}
