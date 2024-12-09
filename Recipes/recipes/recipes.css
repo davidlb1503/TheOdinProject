@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+    font-stretch: expanded;
+}
+
+img {
+    height :auto;
+    width:900px;
+    align-items:center ;
+}
+*{
+    outline: 2px solid red;
+}
+
+
