@@ -1,7 +1,11 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    font-size:larger;
-    font-stretch: expanded;
+    padding: 5px;
+    margin:5px;
+    border:10px;
+    display:block;
+    line-height: 1.5;
+
 }
 
 img {
@@ -9,8 +13,3 @@ img {
     width:900px;
     align-items:center ;
 }
-*{
-    outline: 2px solid red;
-}
-
-
