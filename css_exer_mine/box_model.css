@@ -1,0 +1,31 @@
+* {
+    border : 0px;
+    margin : 0px;
+}
+
+.box1{
+    background-color: lightcoral;
+    font-size: 60px;
+    box-sizing: border-box;
+    height : 300px;
+    width : 700px;
+    padding: 14px;
+    border: 30px solid chartreuse;
+    margin: 0px;
+    /* display:block; */
+    color: white;
+    background: black;
+    /* background-color: antiquewhite; */
+}
+
+.box2{
+    background-color: skyblue;
+    font-size: 80px;
+    /* box-sizing: content-box; */
+    height : 300px;
+    /* width : 700px; */
+    padding: 40px;
+    border: 20px solid darkslateblue;
+    display: block;
+    display: flex;
+}
